@@ -1,0 +1,17 @@
+.hero {
+   min-height: 50vh;
+   display: flex;
+   flex-direction: column;
+   gap: 1rem;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   background: url('/back.jpg');
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+.hero h1 {
+   font-size: 2.3rem;
+   font-weight: 900;
+}

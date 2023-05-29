@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Running Shoes",
+      "price": 59.99,
+      "imageSrc": "/ball.jpg"
+   },
+   {
+      "id": 2,
+      "name": "Yoga Mat",
+      "price": 29.99,
+      "imageSrc": "/ball.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Dumbbell Set",
+      "price": 49.99,
+      "imageSrc": "/ball.jpg"
+   },
+   {
+      "id": 4,
+      "name": "Jump Rope",
+      "price": 9.99,
+      "imageSrc": "/ball.jpg"
+   },
+   {
+      "id": 5,
+      "name": "Fitness Tracker",
+      "price": 79.99,
+      "imageSrc": "/ball.jpg"
+   }
+]
